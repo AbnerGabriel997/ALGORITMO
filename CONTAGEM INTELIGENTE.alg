@@ -15,22 +15,17 @@ inicio
       Leia (fim)
            Se ( ini > fim) entao
            cont <- ini
-           dim <- (cont + 1)
+                Enquanto ( cont >= fim)  faca
+                         Escreva ( cont)
+                         cont <- cont - 1
+                FimEnquanto
            senao
-           cont <- fim
-           dim <- (cont - 1)
-           FimSe
-      Enquanto  ( cont >= 0 ) faca
-                Escreva ( Cont, "...")
-                cont <- dim
-                
-      
-      
-      
-      FimEnquanto
-      
-      
-      
+                cont <- ini
+                Enquanto ( cont <= fim ) faca
+                Escreva (cont)
+                cont <- cont+ 1
+                FimEnquanto
+                FimSe
 fimalgoritmo
 
 
