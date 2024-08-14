@@ -1,7 +1,7 @@
 # ALGORITMO
  lista de exercícios reslvidos do site da [Dio](https://www.dio.me/articles/lista-de-exercicios-para-treinar-logica-de-programacao)
 
- Qualquer sujestão sobre as formas de resoluções serão muito Bem-vindas.
+ Qualquer sujestão sobre as formas de resoluções serão  Bem-vindas.
 
  Att.
 
